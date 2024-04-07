@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "8d5e7f2e9820ba1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "460fd2d34bef6850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40ee3c4a51965df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "415ab8c5d6a7b953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d22a46bf2c64be7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computacion Forense/S1/assets/ComputacionForenseS1.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "514efe0d0b572614",
+    "type": "split",
+    "children": [
+      {
+        "id": "936274df382aa132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26cf63e33d177b34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de8dbc14d6ddfe6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "881b9daf6f4b02f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3a5ea1a5bf5704d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7817057d3f3dd9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def9a8f131f6d20c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e991d52741039232",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7612ee57c03bd51d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a98d9a6af8facc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md"
+              }
+            }
+          },
+          {
+            "id": "6105f08464986d6b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eaabeb541ae17f85",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "40ee3c4a51965df6",
+  "lastOpenFiles": [
+    "Computacion Forense/S1/assets/ComputacionForenseS1.pdf",
+    "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
+    "Computacion Forense/Detalles de la Materia.md",
+    "Computacion Forense/S1",
+    "Computacion Forense/S1/assets",
+    "Auditoria de TI/S1/assets/AuditoriaS1.pdf",
+    "Auditoria de TI/S1/Conceptos Generales de la Auditoria Informatica.md",
+    "Computacion Forense/ComputacionForenseS1.pdf.crdownload",
+    "Computacion Forense",
+    "New folder",
+    "Auditoria de TI/S1/Aud_S1_pdf.md",
+    "Auditoria de TI/S1/assets",
+    "create a link.md",
+    "Auditoria de TI/S1/AuditoriaS1.pdf.crdownload",
+    "Auditoria de TI/Detalles de la Materia.md",
+    "Auditoria de TI/S1",
+    "Welcome.md"
+  ]
+}
