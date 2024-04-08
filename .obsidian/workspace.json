@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
+                "file": "Auditoria de TI/S1/Lista de delitos informáticos.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computacion Forense/S1/assets/ComputacionForenseS1.pdf"
+                "file": "Auditoria de TI/S1/assets/AuditoriaS1.pdf"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
+                "file": "Auditoria de TI/S1/Lista de delitos informáticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
+                "file": "Auditoria de TI/S1/Lista de delitos informáticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md"
+                "file": "Auditoria de TI/S1/Lista de delitos informáticos.md"
               }
             }
           },
@@ -181,21 +181,22 @@
   },
   "active": "40ee3c4a51965df6",
   "lastOpenFiles": [
+    "Auditoria de TI/S1/assets/AuditoriaS1.pdf",
+    "Auditoria de TI/S1/Lista de delitos informáticos.md",
+    "Auditoria de TI/Detalles de la Materia.md",
+    "Auditoria de TI/S1/Aud_S1_pdf.md",
     "Computacion Forense/S1/assets/ComputacionForenseS1.pdf",
     "Computacion Forense/S1/Inducción al Dominio de la Computación Forense.md",
     "Computacion Forense/Detalles de la Materia.md",
     "Computacion Forense/S1",
     "Computacion Forense/S1/assets",
-    "Auditoria de TI/S1/assets/AuditoriaS1.pdf",
     "Auditoria de TI/S1/Conceptos Generales de la Auditoria Informatica.md",
     "Computacion Forense/ComputacionForenseS1.pdf.crdownload",
     "Computacion Forense",
     "New folder",
-    "Auditoria de TI/S1/Aud_S1_pdf.md",
     "Auditoria de TI/S1/assets",
     "create a link.md",
     "Auditoria de TI/S1/AuditoriaS1.pdf.crdownload",
-    "Auditoria de TI/Detalles de la Materia.md",
     "Auditoria de TI/S1",
     "Welcome.md"
   ]
