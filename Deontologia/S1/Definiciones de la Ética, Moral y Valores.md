@@ -24,9 +24,3 @@ Los valores se adquieren durante el desarrollo del individuo, normalmente pasand
 ## Deontología 
 
 Proviene de la ética aplicada a nivel profesional y al nivel ético de este, se centra en los códigos éticos que deben ser aceptados, respetados y conocidos por todos los ingenieros en sistemas 
-
-
-## Ciencia
-_etim: latin. scire (saber conocer) _
-
-Proviene de la necesidad del ser humano de entender el mundo, con le proposito de desarrollar teorias que permiten entender, epxlicar predecir y controlar los diferentes aspoectos del medio que nos rodea 
