@@ -1,0 +1,3 @@
+El test de Turing es una prueba que busca definir si un algoritmo ha llegado a un nivel de inteligencia similar al humano, es decir, busca definir si una computadora es indistinguible de un humano. 
+
+La prueba consiste en un juez interrogador que conversa con varias personas por medio de un chat, entre esas personas existe una computadora la cual por medio de x tecnología puede entablar una conversación con el juez. Si el juez no logra detectar a la computadora pues se comprende que la computadora o tecnología paso el test de Turing 
